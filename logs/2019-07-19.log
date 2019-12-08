@@ -1,0 +1,367 @@
+Fri Jul 19 2019 10:54:03 GMT+0530 (India Standard Time) - error: uncaughtException: Cannot overwrite `category` model once compiled.
+Fri Jul 19 2019 10:54:37 GMT+0530 (India Standard Time) - error: uncaughtException: Cannot overwrite `category` model once compiled.
+Fri Jul 19 2019 10:55:53 GMT+0530 (India Standard Time) - error: uncaughtException: Cannot read property 'save' of null
+Fri Jul 19 2019 10:56:01 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 10:56:01 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 10:59:06 GMT+0530 (India Standard Time) - info: User Added {{In service}}
+Fri Jul 19 2019 10:59:06 GMT+0530 (India Standard Time) - info: User Added {{In controller}}
+Fri Jul 19 2019 10:59:15 GMT+0530 (India Standard Time) - error: User not Added {{In service}}
+Fri Jul 19 2019 10:59:15 GMT+0530 (India Standard Time) - error: User cannnot be added {{In controller}}
+Fri Jul 19 2019 11:13:02 GMT+0530 (India Standard Time) - info: User fetched {{In Dao}}
+Fri Jul 19 2019 11:13:02 GMT+0530 (India Standard Time) - error: uncaughtException: resolve is not defined
+Fri Jul 19 2019 11:13:03 GMT+0530 (India Standard Time) - info: User fetched {{In service}}
+Fri Jul 19 2019 11:13:03 GMT+0530 (India Standard Time) - info: User details fetched {{In controller}}
+Fri Jul 19 2019 11:14:44 GMT+0530 (India Standard Time) - info: User fetched {{In Dao}}
+Fri Jul 19 2019 11:14:44 GMT+0530 (India Standard Time) - info: User fetched {{In service}}
+Fri Jul 19 2019 11:14:44 GMT+0530 (India Standard Time) - info: User details fetched {{In controller}}
+Fri Jul 19 2019 11:16:03 GMT+0530 (India Standard Time) - info: User fetched {{In Dao}}
+Fri Jul 19 2019 11:16:03 GMT+0530 (India Standard Time) - info: User fetched {{In service}}
+Fri Jul 19 2019 11:16:03 GMT+0530 (India Standard Time) - info: User details fetched {{In controller}}
+Fri Jul 19 2019 11:31:39 GMT+0530 (India Standard Time) - info: Category added successfully {{in Dao}}
+Fri Jul 19 2019 11:31:39 GMT+0530 (India Standard Time) - info: Category Added {{In service}}
+Fri Jul 19 2019 11:31:39 GMT+0530 (India Standard Time) - info: Category added {{In controller}}
+Fri Jul 19 2019 11:39:04 GMT+0530 (India Standard Time) - info: Item added successfully {{in Dao}}
+Fri Jul 19 2019 11:39:04 GMT+0530 (India Standard Time) - info: Item Added {{In service}}
+Fri Jul 19 2019 11:39:04 GMT+0530 (India Standard Time) - info: Item Added {{In controller}}
+Fri Jul 19 2019 11:39:57 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 11:39:57 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 11:39:57 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 11:53:23 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 11:53:23 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 11:53:23 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 15:49:20 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:49:20 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:49:21 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:49:43 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:49:43 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:49:43 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:49:58 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:49:58 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:49:58 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:50:18 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:50:18 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:50:18 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:51:00 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:51:00 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:51:00 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:51:12 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:51:12 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:51:12 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:51:43 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:51:43 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:51:43 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:53:01 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:53:01 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:53:01 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 15:53:03 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 15:53:03 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 15:53:03 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 16:00:27 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:00:27 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:00:27 GMT+0530 (India Standard Time) - info: Item received from {{In controller}}
+Fri Jul 19 2019 16:04:20 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:04:20 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:04:20 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 16:05:07 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:05:07 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:05:07 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 16:05:10 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:05:10 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:05:10 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 16:05:26 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:05:26 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:05:26 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 16:05:39 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:05:39 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:06:18 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:06:18 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:06:52 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:06:52 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:06:55 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:06:55 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:06:56 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:06:56 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:07:06 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:07:06 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:07:06 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:07:06 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:08:35 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:08:35 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:09:01 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:09:01 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:27:14 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:27:14 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:27:19 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:27:19 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:37:01 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:37:01 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:37:09 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:37:09 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:37:09 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:37:19 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:37:19 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:37:19 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:37:19 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:37:27 GMT+0530 (India Standard Time) - error: Item not added {{in Dao}}
+Fri Jul 19 2019 16:37:27 GMT+0530 (India Standard Time) - error: Item not added {{In service}}
+Fri Jul 19 2019 16:37:27 GMT+0530 (India Standard Time) - error: Item cannnot be added {{In controller}}
+Fri Jul 19 2019 16:37:58 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:37:58 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:37:58 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:37:58 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:37:58 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:37:58 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:38:05 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:38:05 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:38:05 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:38:05 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:38:05 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:38:05 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:38:37 GMT+0530 (India Standard Time) - error: Item not added {{in Dao}}
+Fri Jul 19 2019 16:38:37 GMT+0530 (India Standard Time) - error: Item not added {{In service}}
+Fri Jul 19 2019 16:38:37 GMT+0530 (India Standard Time) - error: Item cannnot be added {{In controller}}
+Fri Jul 19 2019 16:39:28 GMT+0530 (India Standard Time) - error: Item not added {{in Dao}}
+Fri Jul 19 2019 16:39:28 GMT+0530 (India Standard Time) - error: Item not added {{In service}}
+Fri Jul 19 2019 16:39:28 GMT+0530 (India Standard Time) - error: Item cannnot be added {{In controller}}
+Fri Jul 19 2019 16:40:00 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:40:00 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:40:01 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:40:01 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:40:01 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:40:01 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:40:14 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:40:14 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:40:15 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:40:15 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:40:15 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:40:15 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:40:21 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:40:21 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:40:21 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:40:21 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:40:21 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:40:21 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:40:53 GMT+0530 (India Standard Time) - info: Item added successfully {{in Dao}}
+Fri Jul 19 2019 16:40:53 GMT+0530 (India Standard Time) - info: Item Added {{In service}}
+Fri Jul 19 2019 16:40:53 GMT+0530 (India Standard Time) - info: Item Added {{In controller}}
+Fri Jul 19 2019 16:40:53 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:40:53 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:40:53 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 16:41:12 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:41:12 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:41:13 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:41:13 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:41:13 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:42:31 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:42:31 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:42:31 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:42:31 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:42:31 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:42:59 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:42:59 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:42:59 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:42:59 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:42:59 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:44:04 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:44:04 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:44:04 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:44:04 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:44:04 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:48:42 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:48:42 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:48:42 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:48:42 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:48:42 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:48:45 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:48:45 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:48:46 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:48:46 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:49:28 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:49:28 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:49:28 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:49:28 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:49:28 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:49:28 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:49:34 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:49:34 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:49:34 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:49:34 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:49:34 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:49:34 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:49:44 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:49:44 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:49:44 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:49:49 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:49:49 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:49:49 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:49:49 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:50:20 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:50:20 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:50:21 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 16:50:21 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 16:50:21 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:50:21 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:50:24 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:50:24 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:50:24 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:50:30 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:50:30 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:50:30 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:50:30 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:51:11 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:51:11 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:51:11 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 16:51:27 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:51:27 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:51:27 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:51:27 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:51:27 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:51:31 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:51:31 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:53:06 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:53:06 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:53:07 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:53:07 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:53:10 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:53:10 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:53:10 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 16:53:13 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:53:13 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:53:13 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 16:53:13 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 16:53:48 GMT+0530 (India Standard Time) - info: Item updated successfully {{in Dao}}
+Fri Jul 19 2019 16:53:48 GMT+0530 (India Standard Time) - info: Item updated {{In service}}
+Fri Jul 19 2019 16:53:48 GMT+0530 (India Standard Time) - info: Item Updated {{In controller}}
+Fri Jul 19 2019 16:54:01 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 16:54:01 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 16:54:01 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 16:54:15 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 16:54:15 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 16:54:16 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 16:54:16 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 16:54:16 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 17:00:10 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:00:10 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:00:11 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:00:11 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:02:29 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:02:29 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:02:29 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:02:39 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:02:39 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:02:39 GMT+0530 (India Standard Time) - info: All items by category fetched {{In DAO}}
+Fri Jul 19 2019 17:02:39 GMT+0530 (India Standard Time) - info: Got Item by category{{In service}}
+Fri Jul 19 2019 17:02:39 GMT+0530 (India Standard Time) - info: Items by Category fetched {{In controller}}
+Fri Jul 19 2019 17:04:11 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:04:11 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:04:12 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:04:12 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:04:34 GMT+0530 (India Standard Time) - info: Item updated {{In service}}
+Fri Jul 19 2019 17:04:34 GMT+0530 (India Standard Time) - info: Item Updated {{In controller}}
+Fri Jul 19 2019 17:04:47 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:04:47 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:04:47 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:04:56 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:04:56 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:05:01 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:05:01 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:05:01 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:05:03 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:05:03 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:06:02 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:06:02 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:06:02 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:06:09 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:06:09 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:06:10 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:06:10 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:06:10 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:08:40 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:08:41 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:08:41 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:08:41 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:08:41 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:08:45 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:08:45 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:08:45 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:08:45 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:09:40 GMT+0530 (India Standard Time) - info: Item updated {{In service}}
+Fri Jul 19 2019 17:09:40 GMT+0530 (India Standard Time) - info: Item Updated {{In controller}}
+Fri Jul 19 2019 17:09:44 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:09:44 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:09:44 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:10:32 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:10:32 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:10:33 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:10:33 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:10:50 GMT+0530 (India Standard Time) - info: Item updated {{In service}}
+Fri Jul 19 2019 17:10:50 GMT+0530 (India Standard Time) - info: Item Updated {{In controller}}
+Fri Jul 19 2019 17:12:39 GMT+0530 (India Standard Time) - info: Item updated {{In service}}
+Fri Jul 19 2019 17:12:39 GMT+0530 (India Standard Time) - info: Item Updated {{In controller}}
+Fri Jul 19 2019 17:13:06 GMT+0530 (India Standard Time) - info: Item updated {{In service}}
+Fri Jul 19 2019 17:13:06 GMT+0530 (India Standard Time) - info: Item Updated {{In controller}}
+Fri Jul 19 2019 17:15:08 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:15:08 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:15:08 GMT+0530 (India Standard Time) - error: Item fetched {{In service}}
+Fri Jul 19 2019 17:15:08 GMT+0530 (India Standard Time) - error: Item not fetched {{In controller}}
+Fri Jul 19 2019 17:15:08 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:15:08 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:15:09 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:15:09 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:15:09 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:15:12 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:15:12 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:15:13 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:15:13 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:15:32 GMT+0530 (India Standard Time) - info: Item updated {{In service}}
+Fri Jul 19 2019 17:15:32 GMT+0530 (India Standard Time) - info: Item Updated {{In controller}}
+Fri Jul 19 2019 17:16:02 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:16:02 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:16:02 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:16:09 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:16:09 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:16:16 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:16:16 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:16:16 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:16:17 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:16:17 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:16:17 GMT+0530 (India Standard Time) - info: Item fetched {{In service}}
+Fri Jul 19 2019 17:16:17 GMT+0530 (India Standard Time) - info: Item fetched {{In controller}}
+Fri Jul 19 2019 17:16:21 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:16:21 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:16:21 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:16:52 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:16:52 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:16:52 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:16:52 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:16:52 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:17:36 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:17:36 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:17:36 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:17:36 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:17:36 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:18:00 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:18:00 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:18:00 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:18:00 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:18:00 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:18:09 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:18:09 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:18:09 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:18:09 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:18:09 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:18:22 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:18:22 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:18:22 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:18:22 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:18:22 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:18:39 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:18:39 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:18:40 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:18:40 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:18:40 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
+Fri Jul 19 2019 17:18:56 GMT+0530 (India Standard Time) - info: Recieved categories {{In service}}
+Fri Jul 19 2019 17:18:56 GMT+0530 (India Standard Time) - info: Category received from {{In controller}}
+Fri Jul 19 2019 17:18:56 GMT+0530 (India Standard Time) - info: All items fetched {{In DAO}}
+Fri Jul 19 2019 17:18:56 GMT+0530 (India Standard Time) - info: Recieved Items {{In service}}
+Fri Jul 19 2019 17:18:56 GMT+0530 (India Standard Time) - info: Item received from database{{In controller}}
